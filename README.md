@@ -1,9 +1,7 @@
 # Pet_Pals
-### A Simple Heroku app demonstration
-
-
-
-## Deploying an application
+A Simple Heroku app demonstration
+------
+### Deploying an application
 
 * In this activity, we will deploy a Pet Pals application to Heroku. The applications takes the name, latitude, and longitude of a pet and plot its location on a map. The actual code for the application is not nearly as important as the steps for deploying to Heroku. These steps can repeated for your own applications.
 
