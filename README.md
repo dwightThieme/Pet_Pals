@@ -1,4 +1,4 @@
-# Pet_Pals
+## Pet_Pals
 A Simple Heroku app demonstration
 
 ### Deploying an application
